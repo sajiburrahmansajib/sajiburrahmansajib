@@ -8,7 +8,7 @@ I am a student at United International university . I lived in Dhaka now and i a
 Skills: C / javascript  / HTML / CSS / Django / php / Adobe Primer pro / Microsoft Excel 
 
 - 🔭 I’m currently working on United International University 
-- 🌱 I’m currently learning Django / JavaScript 
+- 🌱 I’m currently learning Django / JavaScript / Bootstrap
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: https://www.facebook.com/sajib152 
